@@ -1,6 +1,6 @@
 ---
 title: "Movies_data_analysis: 2016-19"
-author: "Godfrey"
+author: "Godfrey Nkolokosa"
 date: "2023-09-16"
 output: html_document
 ---
